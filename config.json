@@ -1,0 +1,13 @@
+{
+  "zoekopdrachten": [
+    {
+      "naam": "Delfland do 29 okt",
+      "datum": "2026-10-29",
+      "holes": 9,
+      "lussen": ["geel", "rood", "blauw"],
+      "van": "10:15",
+      "tot": "10:45",
+      "spelers": 1
+    }
+  ]
+}
