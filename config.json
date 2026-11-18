@@ -1,16 +1,16 @@
 {
   "zoekopdrachten": [
     {
-      "naam": "Delfland do 29 okt",
-      "datum": "2026-10-29",
+      "naam": "Delfland vr 20 nov",
+      "datum": "2026-11-20",
       "holes": 9,
       "lussen": [
-        "geel",
         "rood",
+        "geel",
         "blauw"
       ],
-      "van": "10:05",
-      "tot": "10:55",
+      "van": "09:00",
+      "tot": "11:30",
       "spelers": 1
     }
   ]
