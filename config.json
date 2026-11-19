@@ -12,6 +12,19 @@
       "van": "09:00",
       "tot": "11:30",
       "spelers": 1
+    },
+    {
+      "naam": "Delfland zo 22 nov",
+      "datum": "2026-11-22",
+      "holes": 9,
+      "lussen": [
+        "rood",
+        "geel",
+        "blauw"
+      ],
+      "van": "12:00",
+      "tot": "15:30",
+      "spelers": 1
     }
   ]
 }
